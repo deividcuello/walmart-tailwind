@@ -8,7 +8,8 @@ module.exports = {
       yellow: '#FFC220',
       black: '#000000',
       gray: '#777777',
-      green: '#2A8703'
+      green: '#2A8703',
+      lightBlue: '#E6F1FC'
     },
     extend: {
       fontFamily: {
